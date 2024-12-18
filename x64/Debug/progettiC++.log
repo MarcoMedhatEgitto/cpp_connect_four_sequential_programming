@@ -1,0 +1,7 @@
+﻿  progettiC++.cpp
+F:\dirctory files\C++_C\visual\progettiC++\progettiC++\progettiC++.cpp(85,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\dirctory files\C++_C\visual\progettiC++\progettiC++\progettiC++.cpp(452,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\dirctory files\C++_C\visual\progettiC++\progettiC++\progettiC++.cpp(480,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\dirctory files\C++_C\visual\progettiC++\progettiC++\progettiC++.cpp(211,1): warning C4715: 'strategia1': not all control paths return a value
+F:\dirctory files\C++_C\visual\progettiC++\progettiC++\progettiC++.cpp(380,1): warning C4715: 'strategia2': not all control paths return a value
+  progettiC++.vcxproj -> F:\dirctory files\C++_C\visual\progettiC++\x64\Debug\progettiC++.exe
